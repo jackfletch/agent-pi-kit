@@ -1,0 +1,10 @@
+{
+  "name": "@jackfletch/agent-pi-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pi extensions and themes",
+  "keywords": [
+    "pi-package"
+  ],
+  "license": "ISC"
+}
